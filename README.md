@@ -1,2 +1,10 @@
-# tableau-avtovaz-dashboard
+# Tableau Sales Dashboard
+
 Interactive Tableau dashboard key performance indicators analysis
+##Tools 
+- Tableau
+- SQL
+- Excel
+##Dashboard Preview
+View the full dashboard here:
+[View Interactive Dashboard](https://public.tableau.com/views/AvtoVaz/sheet10?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
